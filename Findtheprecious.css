@@ -1,0 +1,61 @@
+.btn_nav{
+    font-size: 1.1em;
+}
+
+.photofellows{
+    width:18em;
+}
+.reward{
+    position: absolute;
+    bottom: 500px; 
+    font-size: 1.2em;
+    background-color: white;
+    opacity: 0.8;
+}
+
+.score{
+    color: #fd9d27;
+}
+
+.image_player1{
+    opacity: 0.6;
+}
+
+.carte_player1:hover .image_player1 {
+    opacity: 1;
+    transition: 1s;
+}
+.carte_player1:hover .reward1{
+    opacity: 0;
+    transition: 1s;
+}
+
+.image_player2{
+    opacity: 0.6;
+}
+
+.carte_player2:hover .image_player2 {
+    opacity: 1;
+    transition: 1s;
+}
+.carte_player2:hover .reward2{
+    opacity: 0;
+    transition: 1s;
+}
+
+.image_player3{
+    opacity: 0.6;
+}
+
+.carte_player3:hover .image_player3 {
+    opacity: 1;
+    transition: 1s;
+}
+.carte_player3:hover .reward3{
+    opacity: 0;
+    transition: 1s;
+}
+
+.pied_2_page{
+    background-color: rgb(66, 66, 66);
+}
